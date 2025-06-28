@@ -35,3 +35,6 @@ The `main()` function acts as the user interface. It displays a welcome message,
 ---
 
 In summary, this C++ program showcases a clean and well-structured implementation of a basic arithmetic expression evaluator. It correctly handles operator precedence and parentheses using recursive methods and throws informative errors when invalid expressions are encountered. Such programs form the foundation for more advanced expression parsers and compilers, making this a valuable educational example of recursive descent parsing and expression evaluation in programming.
+
+OUTPUT:
+![Image](https://github.com/user-attachments/assets/f01cca0c-d973-4add-aa71-24397c9248a6)
